@@ -1,0 +1,10 @@
+public class Number{
+
+	Number(long number){
+		this.number = number;
+		
+	}
+	public long getNumber(){
+		return this.number;
+	}
+}
